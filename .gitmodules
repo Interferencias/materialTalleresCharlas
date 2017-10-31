@@ -7,3 +7,6 @@
 [submodule "charla-ransomware"]
 	path = charla-ransomware
 	url = https://github.com/nacheteam/charla-ransomware
+[submodule "cebollaPi"]
+	path = cebollaPi
+	url = git@github.com:germaaan/cebollaPi.git
