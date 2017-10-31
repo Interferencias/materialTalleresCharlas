@@ -4,6 +4,6 @@
 [submodule "tor"]
 	path = tor
 	url = https://github.com/nacheteam/Charla-sobre-Tor
-[submodule "ransomware"]
-	path = ransomware
+[submodule "charla-ransomware"]
+	path = charla-ransomware
 	url = https://github.com/nacheteam/charla-ransomware
