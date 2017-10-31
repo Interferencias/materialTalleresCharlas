@@ -10,3 +10,6 @@
 [submodule "cebollaPi"]
 	path = cebollaPi
 	url = git@github.com:germaaan/cebollaPi.git
+[submodule "presenciaDigital"]
+	path = presenciaDigital
+	url = git@github.com:germaaan/presenciaDigital.git
